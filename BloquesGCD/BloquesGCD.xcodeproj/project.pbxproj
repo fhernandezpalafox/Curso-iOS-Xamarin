@@ -1,0 +1,300 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2792BED916961539005B0A8D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2792BED816961539005B0A8D /* UIKit.framework */; };
+		2792BEDB16961539005B0A8D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2792BEDA16961539005B0A8D /* Foundation.framework */; };
+		2792BEDD16961539005B0A8D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2792BEDC16961539005B0A8D /* CoreGraphics.framework */; };
+		2792BEE316961539005B0A8D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2792BEE116961539005B0A8D /* InfoPlist.strings */; };
+		2792BEE516961539005B0A8D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2792BEE416961539005B0A8D /* main.m */; };
+		2792BEE916961539005B0A8D /* MDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2792BEE816961539005B0A8D /* MDAppDelegate.m */; };
+		2792BEEB16961539005B0A8D /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2792BEEA16961539005B0A8D /* Default.png */; };
+		2792BEED16961539005B0A8D /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2792BEEC16961539005B0A8D /* Default@2x.png */; };
+		2792BEEF16961539005B0A8D /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2792BEEE16961539005B0A8D /* Default-568h@2x.png */; };
+		2792BEF216961539005B0A8D /* MDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2792BEF116961539005B0A8D /* MDViewController.m */; };
+		2792BEF516961539005B0A8D /* MDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2792BEF316961539005B0A8D /* MDViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		2792BED416961539005B0A8D /* BloquesGCD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BloquesGCD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2792BED816961539005B0A8D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2792BEDA16961539005B0A8D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2792BEDC16961539005B0A8D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2792BEE016961539005B0A8D /* BloquesGCD-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BloquesGCD-Info.plist"; sourceTree = "<group>"; };
+		2792BEE216961539005B0A8D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2792BEE416961539005B0A8D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2792BEE616961539005B0A8D /* BloquesGCD-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BloquesGCD-Prefix.pch"; sourceTree = "<group>"; };
+		2792BEE716961539005B0A8D /* MDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MDAppDelegate.h; sourceTree = "<group>"; };
+		2792BEE816961539005B0A8D /* MDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MDAppDelegate.m; sourceTree = "<group>"; };
+		2792BEEA16961539005B0A8D /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		2792BEEC16961539005B0A8D /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		2792BEEE16961539005B0A8D /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2792BEF016961539005B0A8D /* MDViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MDViewController.h; sourceTree = "<group>"; };
+		2792BEF116961539005B0A8D /* MDViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MDViewController.m; sourceTree = "<group>"; };
+		2792BEF416961539005B0A8D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MDViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2792BED116961539005B0A8D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2792BED916961539005B0A8D /* UIKit.framework in Frameworks */,
+				2792BEDB16961539005B0A8D /* Foundation.framework in Frameworks */,
+				2792BEDD16961539005B0A8D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2792BEC916961539005B0A8D = {
+			isa = PBXGroup;
+			children = (
+				2792BEDE16961539005B0A8D /* BloquesGCD */,
+				2792BED716961539005B0A8D /* Frameworks */,
+				2792BED516961539005B0A8D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2792BED516961539005B0A8D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2792BED416961539005B0A8D /* BloquesGCD.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2792BED716961539005B0A8D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2792BED816961539005B0A8D /* UIKit.framework */,
+				2792BEDA16961539005B0A8D /* Foundation.framework */,
+				2792BEDC16961539005B0A8D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2792BEDE16961539005B0A8D /* BloquesGCD */ = {
+			isa = PBXGroup;
+			children = (
+				2792BEE716961539005B0A8D /* MDAppDelegate.h */,
+				2792BEE816961539005B0A8D /* MDAppDelegate.m */,
+				2792BEF016961539005B0A8D /* MDViewController.h */,
+				2792BEF116961539005B0A8D /* MDViewController.m */,
+				2792BEF316961539005B0A8D /* MDViewController.xib */,
+				2792BEDF16961539005B0A8D /* Supporting Files */,
+			);
+			path = BloquesGCD;
+			sourceTree = "<group>";
+		};
+		2792BEDF16961539005B0A8D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2792BEE016961539005B0A8D /* BloquesGCD-Info.plist */,
+				2792BEE116961539005B0A8D /* InfoPlist.strings */,
+				2792BEE416961539005B0A8D /* main.m */,
+				2792BEE616961539005B0A8D /* BloquesGCD-Prefix.pch */,
+				2792BEEA16961539005B0A8D /* Default.png */,
+				2792BEEC16961539005B0A8D /* Default@2x.png */,
+				2792BEEE16961539005B0A8D /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2792BED316961539005B0A8D /* BloquesGCD */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2792BEF816961539005B0A8D /* Build configuration list for PBXNativeTarget "BloquesGCD" */;
+			buildPhases = (
+				2792BED016961539005B0A8D /* Sources */,
+				2792BED116961539005B0A8D /* Frameworks */,
+				2792BED216961539005B0A8D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BloquesGCD;
+			productName = BloquesGCD;
+			productReference = 2792BED416961539005B0A8D /* BloquesGCD.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2792BECB16961539005B0A8D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = MD;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Miguel Díaz";
+			};
+			buildConfigurationList = 2792BECE16961539005B0A8D /* Build configuration list for PBXProject "BloquesGCD" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2792BEC916961539005B0A8D;
+			productRefGroup = 2792BED516961539005B0A8D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2792BED316961539005B0A8D /* BloquesGCD */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2792BED216961539005B0A8D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2792BEE316961539005B0A8D /* InfoPlist.strings in Resources */,
+				2792BEEB16961539005B0A8D /* Default.png in Resources */,
+				2792BEED16961539005B0A8D /* Default@2x.png in Resources */,
+				2792BEEF16961539005B0A8D /* Default-568h@2x.png in Resources */,
+				2792BEF516961539005B0A8D /* MDViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2792BED016961539005B0A8D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2792BEE516961539005B0A8D /* main.m in Sources */,
+				2792BEE916961539005B0A8D /* MDAppDelegate.m in Sources */,
+				2792BEF216961539005B0A8D /* MDViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		2792BEE116961539005B0A8D /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2792BEE216961539005B0A8D /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2792BEF316961539005B0A8D /* MDViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2792BEF416961539005B0A8D /* en */,
+			);
+			name = MDViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2792BEF616961539005B0A8D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		2792BEF716961539005B0A8D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2792BEF916961539005B0A8D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BloquesGCD/BloquesGCD-Prefix.pch";
+				INFOPLIST_FILE = "BloquesGCD/BloquesGCD-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2792BEFA16961539005B0A8D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BloquesGCD/BloquesGCD-Prefix.pch";
+				INFOPLIST_FILE = "BloquesGCD/BloquesGCD-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2792BECE16961539005B0A8D /* Build configuration list for PBXProject "BloquesGCD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2792BEF616961539005B0A8D /* Debug */,
+				2792BEF716961539005B0A8D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2792BEF816961539005B0A8D /* Build configuration list for PBXNativeTarget "BloquesGCD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2792BEF916961539005B0A8D /* Debug */,
+				2792BEFA16961539005B0A8D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2792BECB16961539005B0A8D /* Project object */;
+}

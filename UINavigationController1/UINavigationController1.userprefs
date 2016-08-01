@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="UINavigationController1/UINavigationController1.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UINavigationController1/SegundaViewController.cs">
+    <Files>
+      <File FileName="UINavigationController1/AppDelegate.cs" Line="20" Column="4" />
+      <File FileName="UINavigationController1/Principal.cs" Line="24" Column="65" />
+      <File FileName="UINavigationController1/SegundaViewController.cs" Line="12" Column="25" />
+      <File FileName="UINavigationController1/TercerViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UINavigationController1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+</Properties>

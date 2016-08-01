@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ControlesBasicos3/ControlesBasicos3.csproj">
+  <MonoDevelop.Ide.ItemProperties.ControlesBasicos3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ControlesBasicos3/ViewController.cs">
+    <Files>
+      <File FileName="ControlesBasicos3/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ControlesBasicos3/ViewController.cs" Line="22" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

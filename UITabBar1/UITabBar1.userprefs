@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="UITabBar1/UITabBar1.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UITabBar1/TabController.cs">
+    <Files>
+      <File FileName="UITabBar1/TabController.cs" Line="22" Column="57" />
+      <File FileName="UITabBar1/AppDelegate.cs" Line="24" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UITabBar1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+</Properties>

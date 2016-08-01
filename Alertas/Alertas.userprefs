@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Alertas/Alertas.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alertas/ViewController.cs">
+    <Files>
+      <File FileName="Alertas/ViewController.cs" Line="106" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Alertas PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+</Properties>

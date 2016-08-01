@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlesBasicos4", "ControlesBasicos4\ControlesBasicos4.csproj", "{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}.Release|iPhone.Build.0 = Release|iPhone
+		{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

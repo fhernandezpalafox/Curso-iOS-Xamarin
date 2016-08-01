@@ -1,0 +1,31 @@
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/optimized/map.png
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/optimized/map@2x.png
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/optimized/
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/bin/iPhoneSimulator/Debug/Location.exe.mdb
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/bin/iPhoneSimulator/Debug/Location.exe
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/Location.exe
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/obj/iPhoneSimulator/Debug/Location.exe.mdb
+/Users/felipehernandez/Downloads/monotouch-samples-master/Location/Location/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/optimized/map.png
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/optimized/map@2x.png
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/optimized/
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/bin/iPhoneSimulator/Debug/Location.exe.mdb
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/bin/iPhoneSimulator/Debug/Location.exe
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/Location.exe
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/obj/iPhoneSimulator/Debug/Location.exe.mdb
+/Users/felipehernandez/Documents/Curso iOS/Location/Location/bin/iPhoneSimulator/Debug/Calabash.dll

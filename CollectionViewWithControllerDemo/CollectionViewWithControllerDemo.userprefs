@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="CollectionViewWithControllerDemo/CollectionViewWithControllerDemo.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionViewWithControllerDemo/ViewController.cs">
+    <Files>
+      <File FileName="CollectionViewWithControllerDemo/ViewController.cs" Line="51" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CollectionViewWithControllerDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+</Properties>

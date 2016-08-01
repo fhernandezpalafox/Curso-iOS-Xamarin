@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="UITableView3/UITableView3.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UITableView3/TableSource.cs">
+    <Files>
+      <File FileName="UITableView3/TableSource.cs" Line="57" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UITableView3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

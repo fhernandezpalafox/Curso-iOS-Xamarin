@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="UITableView5/UITableView5.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UITableView5/TableSource.cs">
+    <Files>
+      <File FileName="UITableView5/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="UITableView5/CustomCell.cs" Line="34" Column="21" />
+      <File FileName="UITableView5/Entidad.cs" Line="10" Column="37" />
+      <File FileName="UITableView5/TableSource.cs" Line="23" Column="11" />
+      <File FileName="UITableView5/ViewController.cs" Line="26" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UITableView5 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

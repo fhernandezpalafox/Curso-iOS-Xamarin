@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<ID>82ff303e-bd49-43cb-9520-d471c625a3c5</ID>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Intermediate</Level>
+	<Tags>User Interface, Touch</Tags>
+	<Gallery>true</Gallery>
+	<Brief>An example on how to handle touches to move multiple objects.</Brief>
+</SampleMetadata>

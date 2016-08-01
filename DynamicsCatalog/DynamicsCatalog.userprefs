@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Dynamics_Catalog/DynamicsCatalog.csproj">
+  <MonoDevelop.Ide.ItemProperties.DynamicsCatalog PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Dynamics_Catalog/GravityViewController.cs" Line="19" Column="53" />
+      <File FileName="Dynamics_Catalog/CollisionGravityViewController.cs" Line="51" Column="23" />
+      <File FileName="Dynamics_Catalog/AttachmentsViewController.cs" Line="47" Column="40" />
+      <File FileName="Dynamics_Catalog/CollisionGravitySpringViewController.cs" Line="42" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

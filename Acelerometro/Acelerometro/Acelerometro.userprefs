@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Acelerometro.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewController.cs">
+    <Files>
+      <File FileName="ViewController.cs" Line="53" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Acelerometro PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9B0E04FD-76AF-45CB-81D2-C8FA64EB87FC" />
+</Properties>

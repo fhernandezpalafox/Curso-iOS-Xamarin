@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="AVPlayerViewController2/AVPlayerViewController2.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AVPlayerViewController2/Info.plist">
+    <Files>
+      <File FileName="AVPlayerViewController2/AppDelegate.cs" Line="25" Column="31" />
+      <File FileName="AVPlayerViewController2/ViewController.cs" Line="27" Column="45" />
+      <File FileName="AVPlayerViewController2/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AVPlayerViewController2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

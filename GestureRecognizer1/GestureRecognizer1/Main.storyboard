@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6211" systemVersion="14A298i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6204"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" id="3" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="MagentaSquare.png">
+                                <rect key="frame" x="64" y="194" width="226" height="212"/>
+                            </imageView>
+                        </subviews>
+                        <connections>
+                            <outletCollection id="5" property="gestureRecognizers" destination="4"/>
+                            <outletCollection id="13" property="gestureRecognizers" destination="12"/>
+                            <outletCollection id="40" property="gestureRecognizers" destination="39"/>
+                            <outletCollection id="42" property="gestureRecognizers" destination="41"/>
+                        </connections>
+                    </view>
+                    <connections>
+                        <outlet property="Image" destination="3" id="name-outlet-3"/>
+                        <outlet property="RotacionGesture" destination="4" id="name-outlet-4"/>
+                        <outlet property="LongGesture" destination="12" id="name-outlet-12"/>
+                        <outlet property="TapGesture" destination="39" id="name-outlet-39"/>
+                        <outlet property="PinchGesture" destination="36" id="name-outlet-36"/>
+                        <outlet property="PanGesture" destination="41" id="name-outlet-41"/>
+                    </connections>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <rotationGestureRecognizer id="4"/>
+                <pongPressGestureRecognizer allowableMovement="10" minimumPressDuration="0.5" id="12"/>
+                <pinchGestureRecognizer id="36"/>
+                <tapGestureRecognizer id="39"/>
+                <panGestureRecognizer minimumNumberOfTouches="1" id="41"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="MagentaSquare.png" width="100" height="100"/>
+        <image name="YellowSquare.png" width="100" height="100"/>
+    </resources>
+</document>

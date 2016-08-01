@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapa3", "Mapa3\Mapa3.csproj", "{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}.Release|iPhone.Build.0 = Release|iPhone
+		{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

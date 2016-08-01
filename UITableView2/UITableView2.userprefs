@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="UITableView2/UITableView2.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UITableView2/TableSource.cs">
+    <Files>
+      <File FileName="UITableView2/ViewController.cs" Line="20" Column="51" />
+      <File FileName="UITableView2/TableSource.cs" Line="103" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UITableView2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
