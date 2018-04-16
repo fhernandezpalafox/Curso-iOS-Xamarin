@@ -1,9 +1,0 @@
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/bin/iPhoneSimulator/Debug/PickerViewDate.exe
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/bin/iPhoneSimulator/Debug/PickerViewDate.pdb
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/obj/iPhoneSimulator/Debug/optimized/
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/obj/iPhoneSimulator/Debug/PickerViewDate.csproj.CoreCompileInputs.cache
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/obj/iPhoneSimulator/Debug/PickerViewDate.exe
-/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewDate/obj/iPhoneSimulator/Debug/PickerViewDate.pdb

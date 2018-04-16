@@ -1,7 +1,0 @@
-/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/bin/iPhoneSimulator/Debug/Mapa4.exe
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.3.0.47/lib/mono/Xamarin.iOS/mscorlib.dll
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.3.0.47/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.3.0.47/lib/mono/Xamarin.iOS/System.dll
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.3.0.47/lib/mono/Xamarin.iOS/Mono.Security.dll
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.3.0.47/lib/mono/Xamarin.iOS/System.Xml.dll
-/Library/Frameworks/Xamarin.iOS.framework/Versions/11.3.0.47/lib/mono/Xamarin.iOS/System.Core.dll

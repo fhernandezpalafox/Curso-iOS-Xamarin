@@ -1,9 +1,0 @@
-Function=xamarin_timezone_get_data
-	/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView7/UITableView7/obj/iPhone/Debug/device-builds/iphone7.2-11.0.3/mtouch-cache/Link/mscorlib.dll
-Function=xamarin_log
-	/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView7/UITableView7/obj/iPhone/Debug/device-builds/iphone7.2-11.0.3/mtouch-cache/Link/mscorlib.dll
-Function=UIApplicationMain
-	/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView7/UITableView7/obj/iPhone/Debug/device-builds/iphone7.2-11.0.3/mtouch-cache/Link/Xamarin.iOS.dll
-Function=xamarin_get_block_descriptor
-	/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView7/UITableView7/obj/iPhone/Debug/device-builds/iphone7.2-11.0.3/mtouch-cache/Link/Xamarin.iOS.dll
-Function=mono_pmip
