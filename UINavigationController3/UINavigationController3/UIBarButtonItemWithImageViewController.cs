@@ -1,6 +1,5 @@
 ﻿using System;
 using CoreGraphics;
-
 using Foundation;
 using UIKit;
 
@@ -9,7 +8,8 @@ namespace UINavigationController3
 {
 	public partial class UIBarButtonItemWithImageViewController : UIViewController
 	{
-		UIBarButtonItem customButton;
+
+        UIBarButtonItem customButton;
 
 		public UIBarButtonItemWithImageViewController() : base("UIBarButtonItemWithImageViewController", null)
 		{

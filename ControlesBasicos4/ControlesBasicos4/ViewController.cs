@@ -16,14 +16,19 @@ namespace ControlesBasicos4
 			base.ViewDidLoad();
 			// Perform any additional setup after loading the view, typically from a nib.
 			WebView.LoadRequest(new Foundation.NSUrlRequest(new NSUrl("http://www.google.com")));
+
+           /* NSUrl url  =  new NSUrl("http://www.google.com");
+            NSUrlRequest request = new NSUrlRequest(url);
+            WebView.LoadRequest(request);
+           */
+
 			txtUrl.Text = "http://www.google.com";
 
 			SegmentoPaginas.ValueChanged  += delegate {
 			     switch (SegmentoPaginas.SelectedSegment)
 				{
 					case 0:
-						WebView.LoadRequest(new Foundation.NSUrlRequest(new NSUrl("http://www.google.com")));
-						txtUrl.Text = "http://www.google.com";
+                        CambiarWebView("http://www.google.com");
 						break;
 					case 1:
 						WebView.LoadRequest(new Foundation.NSUrlRequest(new NSUrl("http://www.youtube.com")));
@@ -41,6 +46,13 @@ namespace ControlesBasicos4
 
 			WebView.ScalesPageToFit = true;
 		}
+
+
+        public void CambiarWebView(string url){
+
+            WebView.LoadRequest(new Foundation.NSUrlRequest(new NSUrl(url)));
+            txtUrl.Text = url;
+        }
 
 
 		public override void DidReceiveMemoryWarning()

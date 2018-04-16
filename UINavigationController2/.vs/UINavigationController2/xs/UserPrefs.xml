@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{190ED0BA-82A3-4E8B-87B2-D7826779B5C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UINavigationController2/Main.storyboard">
+    <Files>
+      <File FileName="UINavigationController2/AppDelegate.cs" Line="24" Column="60" />
+      <File FileName="UINavigationController2/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UINavigationController2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A57EA974-8D97-4B42-B559-091ECF01D66F" />
+  <MultiItemStartupConfigurations />
+</Properties>

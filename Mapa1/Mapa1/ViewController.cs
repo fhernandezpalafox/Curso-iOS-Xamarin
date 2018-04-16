@@ -1,7 +1,6 @@
 ﻿using System;
 using UIKit;
 using MapKit;
-
 using CoreLocation;
 
 namespace Mapa1
@@ -47,7 +46,7 @@ namespace Mapa1
 			Mapa.AddAnnotation(new MKPointAnnotation()
 			{
 				Title  = "Anotacion",
-				Coordinate  =  new CLLocationCoordinate2D(42.364260, -71.120824)
+                Coordinate  =  new CLLocationCoordinate2D(21.1665143, -101.71766129999999)
 			});
 		}
 

@@ -15,7 +15,7 @@ namespace ControlesBasicos4
 		{
 			base.ViewDidLoad();
 
-			string nombreArchivo = "Contenido/index.html";
+			string nombreArchivo = "Contenido/Index.html";
 			string localHtml = Path.Combine(NSBundle.MainBundle.BundlePath,nombreArchivo);
 			WebView.LoadRequest(new NSUrlRequest(new NSUrl(localHtml,false)));
 			WebView.ScalesPageToFit = false;

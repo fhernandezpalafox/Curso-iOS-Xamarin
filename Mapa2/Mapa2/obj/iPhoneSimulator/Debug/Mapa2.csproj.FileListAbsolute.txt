@@ -1,0 +1,9 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/bin/iPhoneSimulator/Debug/Mapa2.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/bin/iPhoneSimulator/Debug/Mapa2.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/obj/iPhoneSimulator/Debug/Mapa2.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/obj/iPhoneSimulator/Debug/Mapa2.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa2/Mapa2/obj/iPhoneSimulator/Debug/Mapa2.pdb

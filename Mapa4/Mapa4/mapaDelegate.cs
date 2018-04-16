@@ -1,4 +1,5 @@
 ﻿using System;
+using CoreLocation;
 using MapKit;
 using UIKit;
 
@@ -60,14 +61,48 @@ namespace Mapa4
 			}
 		}
 
-		public override MKOverlayView GetViewForOverlay(MKMapView mapView, IMKOverlay overlay)
-		{
-			var circleOverlay = overlay as MKCircle;
-			var circleView = new MKCircleView(circleOverlay);
-			circleView.FillColor = UIColor.Red;
-			circleView.Alpha = 0.4f;
-			return circleView;
-		}
+        public override MKOverlayRenderer OverlayRenderer(MKMapView mapView, IMKOverlay overlay){
+            var circleOverlay = overlay as MKCircle;
+            var circleView = new MKCircleRenderer(circleOverlay);
+            circleView.FillColor = UIColor.Red;
+            circleView.Alpha = 0.4f;
+            return circleView;
+        }
+
+
+
+        public override void DidUpdateUserLocation(MKMapView mapView, MKUserLocation userLocation)
+        {
+            if (mapView.UserLocation != null)
+            {
+                CLLocationCoordinate2D coords = mapView.UserLocation.Coordinate;
+                MKCoordinateSpan span = new 
+                    MKCoordinateSpan(MilesToLatitudeDegrees(2), 
+                                     MilesToLongitudeDegrees(2, coords.Latitude));
+                mapView.Region = new MKCoordinateRegion(coords, span);
+            }
+        }
+
+
+
+        public double MilesToLatitudeDegrees(double miles)
+        {
+            double earthRadius = 3960.0; // in miles
+            double radiansToDegrees = 180.0 / Math.PI;
+            return (miles / earthRadius) * radiansToDegrees;
+        }
+
+
+        public double MilesToLongitudeDegrees(double miles, double atLatitude)
+        {
+            double earthRadius = 3960.0; // in miles
+            double degreesToRadians = Math.PI / 180.0;
+            double radiansToDegrees = 180.0 / Math.PI;
+            // derive the earth's radius at that point in latitude
+            double radiusAtLatitude = earthRadius * Math.Cos(atLatitude * degreesToRadians);
+            return (miles / radiusAtLatitude) * radiansToDegrees;
+        }
+		
 	}
 }
 

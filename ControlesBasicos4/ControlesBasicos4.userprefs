@@ -1,14 +1,20 @@
-﻿<Properties StartupItem="ControlesBasicos4/ControlesBasicos4.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ControlesBasicos4/LocalViewController.cs">
+﻿<Properties StartupConfiguration="{9BA15BC8-D982-4EE2-BC3E-7777F1A07659}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ControlesBasicos4/Info.plist">
     <Files>
-      <File FileName="ControlesBasicos4/ViewController.cs" Line="42" Column="3" />
-      <File FileName="ControlesBasicos4/LocalViewController.cs" Line="24" Column="31" />
+      <File FileName="ControlesBasicos4/ViewController.cs" Line="56" Column="9" />
+      <File FileName="ControlesBasicos4/LocalViewController.cs" Line="27" Column="6" />
+      <File FileName="ControlesBasicos4/Main.storyboard" />
+      <File FileName="ControlesBasicos4/Contenido/Index.html" Line="8" Column="28" />
+      <File FileName="ControlesBasicos4/ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="ControlesBasicos4/Entitlements.plist" />
+      <File FileName="ControlesBasicos4/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ControlesBasicos4 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ControlesBasicos4 PreferredExecutionTarget="57FD40FB-8792-4520-9966-FA1CB0396AC5" identitySerialNumber="69E12850DD2AB69D">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="6A56L8L76A" TeamId="2SFY4Y56VV" />
+  </MonoDevelop.Ide.ItemProperties.ControlesBasicos4>
 </Properties>

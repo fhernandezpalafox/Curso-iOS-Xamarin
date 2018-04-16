@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="Mapa1/Mapa1.csproj">
+﻿<Properties StartupConfiguration="{D6D8AB44-24B4-4C7C-8975-51D4D02D1203}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Mapa1/ViewController.cs">
     <Files>
       <File FileName="Mapa1/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="Mapa1/ViewController.cs" Line="24" Column="4" />
-      <File FileName="Mapa1/Info.plist" />
+      <File FileName="Mapa1/ViewController.cs" Line="29" Column="21" />
+      <File FileName="Mapa1/ViewController.designer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -11,5 +11,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Mapa1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Mapa1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9D5686FE-F9F3-4F18-8B84-29E0C5D0EFE9" />
 </Properties>

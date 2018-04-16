@@ -6,7 +6,10 @@ namespace ControlesBasicos3
 {
 	public partial class ViewController : UIViewController
 	{
-		protected ViewController(IntPtr handle) : base(handle)
+
+ 
+
+        protected ViewController(IntPtr handle) : base(handle)
 		{
 			// Note: this .ctor should not contain any initialization logic.
 		}
@@ -17,9 +20,11 @@ namespace ControlesBasicos3
 			// Perform any additional setup after loading the view, typically from a nib.
 			Imagen2.Image = UIImage.FromBundle("mark.png");
 
-			SliderImagen.ValueChanged += (sender, e) =>
+            SliderImagen.ValueChanged +=  (sender, e) =>
 			{
 				lblNumero.Text = ((UISlider)sender).Value.ToString();
+
+
 			};
 
 			Incrementador.ValueChanged +=  delegate {

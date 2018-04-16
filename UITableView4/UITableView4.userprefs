@@ -1,15 +1,25 @@
-﻿<Properties StartupItem="UITableView4/UITableView4.csproj">
+﻿<Properties StartupConfiguration="{87B55193-C549-435D-8C27-5762B3453F2E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="UITableView4/TableSource.cs">
     <Files>
-      <File FileName="UITableView4/AppDelegate.cs" Line="21" Column="25" />
-      <File FileName="UITableView4/TableSource.cs" Line="38" Column="68" />
-      <File FileName="UITableView4/ViewController.cs" Line="26" Column="29" />
+      <File FileName="UITableView4/TableSource.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UITableView4" expanded="True">
+            <Node name="UITableView4" expanded="True">
+              <Node name="TableSource.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.UITableView4 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.UITableView4 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A57EA974-8D97-4B42-B559-091ECF01D66F" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

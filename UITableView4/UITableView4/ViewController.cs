@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using UIKit;
+using UITableNegocio;
+
 
 namespace UITableView4
 {

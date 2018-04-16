@@ -17,10 +17,11 @@ namespace UINavigationController1
 
 
 			//EVENTO
-			btnIr.TouchUpInside += delegate {
+			btnIr.TouchUpInside +=  delegate {
 				SegundaViewController segunda = new SegundaViewController();
 				segunda.Title = "Segunda Vista";
-				segunda.informacion =  (string.IsNullOrEmpty(txtcaptura.Text))?"No se capturo nada":txtcaptura.Text;
+				segunda.informacion =  
+                    (string.IsNullOrEmpty(txtcaptura.Text))?"No se capturo nada":txtcaptura.Text;
 				this.NavigationController.PushViewController(segunda, true);
 			};
 

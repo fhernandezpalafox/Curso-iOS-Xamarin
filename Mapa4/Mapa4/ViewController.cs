@@ -16,6 +16,12 @@ namespace Mapa4
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
+
+            CLLocationManager locationManager = new CLLocationManager();
+            locationManager.RequestWhenInUseAuthorization();
+
+            Mapa.ShowsUserLocation = true;
+
 			// Perform any additional setup after loading the view, typically from a nib.
 			Mapa.MapType = MKMapType.Standard;
 
@@ -39,7 +45,15 @@ namespace Mapa4
 
 			Mapa.AddAnnotation(new CustomAnnotation("Xamarin", mapCenter));
 
+            var coords = new CLLocationCoordinate2D(42.364260, -71.120824);
+            var circleOverlay = MKCircle.Circle(coords, 200);
+            Mapa.AddOverlay(circleOverlay);
+
+
+
+
 		}
+
 
 		public override void DidReceiveMemoryWarning()
 		{

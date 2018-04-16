@@ -1,0 +1,9 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/bin/iPhoneSimulator/Debug/AVPlayerViewController2.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/bin/iPhoneSimulator/Debug/AVPlayerViewController2.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/obj/iPhoneSimulator/Debug/AVPlayerViewController2.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/obj/iPhoneSimulator/Debug/AVPlayerViewController2.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/AVPlayerViewController2/AVPlayerViewController2/obj/iPhoneSimulator/Debug/AVPlayerViewController2.pdb

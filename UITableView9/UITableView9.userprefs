@@ -1,15 +1,16 @@
-﻿<Properties StartupItem="UITableView9/UITableView9.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UITableView9/ViewController.cs">
+﻿<Properties StartupConfiguration="{FF46494D-B7FE-483B-BE89-C785599203B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UITableView9/TableSource.cs">
     <Files>
       <File FileName="UITableView9/Entidad.cs" Line="16" Column="1" />
-      <File FileName="UITableView9/ViewController.cs" Line="49" Column="29" />
-      <File FileName="UITableView9/TableSource.cs" Line="33" Column="5" />
+      <File FileName="UITableView9/ViewController.cs" Line="43" Column="22" />
+      <File FileName="UITableView9/TableSource.cs" Line="51" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.UITableView9 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.UITableView9 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF3FA272-8D59-41F8-B4EF-F7A17608C894" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

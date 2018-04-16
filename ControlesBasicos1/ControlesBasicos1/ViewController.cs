@@ -1,5 +1,4 @@
 ﻿using System;
-
 using UIKit;
 
 namespace ControlesBasicos1
@@ -15,14 +14,19 @@ namespace ControlesBasicos1
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
-			// Perform any additional setup after loading the view, typically from a nib.
+            // Perform any additional setup after loading the view, typically from a nib.
 
-
-			btn1.TouchUpInside +=  delegate {
+            btn1.TouchUpInside +=  delegate {
 				MessageBox("Mensaje", "Se realizo desde delegate");
+
+                var nombre = "felipe";
+                lblinformacion.Text = "hola " + nombre;
+                lblinformacion.Text += string.Format("Hola desde Ecodeli {0}-{1}",nombre,nombre);
 			};
 
+
 			btn2.TouchUpInside +=  Btn2_TouchUpInside;
+
 
 			btn3.TouchUpInside += (s,a) =>
 			{
@@ -45,12 +49,7 @@ namespace ControlesBasicos1
 			}
 		}
 
-		void Btn2_TouchUpInside(object sender, EventArgs e)
-		{
-			MessageBox("Mensaje", "Se realizo desde un vento aparte");
-		}
-
-		public void MessageBox(String Titulo, string Mensaje)
+		private void MessageBox(string  Titulo, string Mensaje)
 		{
 			UIAlertView alerta = new UIAlertView();
 			alerta.Title = Titulo;
@@ -59,11 +58,18 @@ namespace ControlesBasicos1
 			alerta.Show();
 		}
 
+        void Btn2_TouchUpInside(object sender, EventArgs e)
+		{
+			MessageBox("Mensaje", "Se realizo desde un evento aparte");
+		}
+
+		
+
 		public override void DidReceiveMemoryWarning()
 		{
 			base.DidReceiveMemoryWarning();
 			// Release any cached data, images, etc that aren't in use.
 		}
-	}
+    }
 }
 

@@ -34,7 +34,23 @@ namespace AVPlayerViewController
 			View.Layer.AddSublayer(_playerLayer);
 
 			_player.Play();
+
+            eventosItems();
+
 		}
+
+
+        public void eventosItems(){
+
+            itemPlay.Clicked += (sender, e) => {
+                _player.Play();
+            };
+
+            itemPause.Clicked += (sender, e) => {
+                _player.Pause();
+            };
+
+        }
 
 		public override void DidReceiveMemoryWarning()
 		{

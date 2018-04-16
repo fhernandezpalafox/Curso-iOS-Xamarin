@@ -1,8 +1,8 @@
-﻿<Properties StartupItem="Mapa3/Mapa3.csproj">
+﻿<Properties StartupConfiguration="{0B7E34B8-42A2-4FD9-8B2C-957620C7DC60}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Mapa3/ViewController.cs">
     <Files>
       <File FileName="Mapa3/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="Mapa3/ViewController.cs" Line="49" Column="19" />
+      <File FileName="Mapa3/ViewController.cs" Line="46" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -10,5 +10,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Mapa3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.Mapa3 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3CD9D848-3D3E-48ED-99F6-A9EC98A481A9" />
+  <MultiItemStartupConfigurations />
 </Properties>

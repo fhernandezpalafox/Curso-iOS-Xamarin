@@ -17,7 +17,7 @@ namespace UITableView1
 			// Perform any additional setup after loading the view, typically from a nib.
 
 			//SE CREA UN ARREGLO PARA LLENAR LAS TABLAS
-			String[] tableItems = new string[] { "Vegetales", "Frutas", "Flowers Buds", "Legumes","Andres" };
+			string[] tableItems = new string[] { "Vegetales", "Frutas", "Flowers Buds", "Legumes","Andres" };
 			Tabla.Source = new TableSource(tableItems,this);
 
 		}

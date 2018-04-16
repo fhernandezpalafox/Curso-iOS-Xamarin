@@ -21,18 +21,24 @@ namespace UITableView9
 
 			LlenarTabla();
 
+            //SearchBar
 			txtBusqueda.TextChanged += (sender, e) => {
 				LlenarTabla(txtBusqueda.Text);
 			};
 		}
 
-		public void LlenarTabla(string busqueda=  null)
+		public void LlenarTabla(string busqueda =  null)
 		{
 
 			Lista.Clear();
 			//SE CREA UN ARREGLO PARA LLENAR LAS TABLAS
-			Lista.Add(new Entidad { Nombre = "Bill Gates", Detalle = "Microsoft: Una de las primeras empresas de computacion", Imagen = "gates.png" });
-			Lista.Add(new Entidad { Nombre = "Mark", Detalle = "Facebook: una de las mejores redes sociales", Imagen = "mark.png" });
+			Lista.Add(new Entidad { Nombre = "Bill Gates", 
+                Detalle = "Microsoft: Una de las primeras empresas de computacion", 
+                Imagen = "gates.png" });
+            
+			Lista.Add(new Entidad { Nombre = "Mark", 
+                Detalle = "Facebook: una de las mejores redes sociales",
+                Imagen = "mark.png" });
 
 			if (string.IsNullOrEmpty(busqueda))
 			{				

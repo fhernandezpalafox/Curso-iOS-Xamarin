@@ -1,16 +1,15 @@
-﻿<Properties StartupItem="UITableView8/UITableView8.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UITableView8/TableSource.cs">
+﻿<Properties StartupConfiguration="{34932570-1B83-4801-9ABC-8410954600F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UITableView8/AppDelegate.cs">
     <Files>
-      <File FileName="UITableView8/TableSource.cs" Line="63" Column="38" />
-      <File FileName="UITableView8/ViewController.cs" Line="25" Column="29" />
-      <File FileName="UITableView8/DetalleViewController.cs" Line="18" Column="4" />
-      <File FileName="UITableView8/Entidad.cs" Line="12" Column="37" />
+      <File FileName="UITableView8/AppDelegate.cs" Line="12" Column="9" />
+      <File FileName="UITableView8/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.UITableView8 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.UITableView8 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF3FA272-8D59-41F8-B4EF-F7A17608C894" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

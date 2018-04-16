@@ -9,19 +9,24 @@ namespace AVPlayerViewController
 	public class AppDelegate : UIApplicationDelegate
 	{
 
-		UIWindow window;
-		AVPlayerDemoViewController viewController;
+
+        public override UIWindow Window {
+            get;
+            set;
+        }
+        //UIWindow window;
+		//AVPlayerDemoViewController viewController;
 		// class-level declarations
 		public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
 		{
 			// Override point for customization after application launch.
 			// If not required for your application you can safely delete this method
-			window = new UIWindow(UIScreen.MainScreen.Bounds);
+			/*window = new UIWindow(UIScreen.MainScreen.Bounds);
 
 			viewController = new AVPlayerDemoViewController();
 			window.RootViewController = viewController;
 			window.MakeKeyAndVisible();
-
+            */
 			return true;
 		}
 

@@ -1,18 +1,14 @@
-﻿<Properties StartupItem="Location/Location.csproj">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{1D18A729-56D4-46F0-AB46-A3D356FB7103}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Location/Info.plist">
     <Files>
-      <File FileName="Location/ViewController.cs" Line="59" Column="6" />
-      <File FileName="Location/LocationUpdateEventArgs.cs" Line="1" Column="1" />
-      <File FileName="Location/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="Location/LocationManager.cs" Line="23" Column="48" />
       <File FileName="Location/Info.plist" />
-      <File FileName="Location/Entitlements.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Location PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.Location PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" identitySerialNumber="69E12850DD2AB69D" />
+  <MultiItemStartupConfigurations />
 </Properties>

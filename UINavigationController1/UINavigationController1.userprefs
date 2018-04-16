@@ -1,10 +1,15 @@
-﻿<Properties StartupItem="UINavigationController1/UINavigationController1.csproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UINavigationController1/SegundaViewController.cs">
+﻿<Properties StartupConfiguration="{BDBE9817-9B66-4950-B508-E1F4D3857A7F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UINavigationController1/TercerViewController.cs">
     <Files>
-      <File FileName="UINavigationController1/AppDelegate.cs" Line="20" Column="4" />
-      <File FileName="UINavigationController1/Principal.cs" Line="24" Column="65" />
-      <File FileName="UINavigationController1/SegundaViewController.cs" Line="12" Column="25" />
-      <File FileName="UINavigationController1/TercerViewController.cs" Line="1" Column="1" />
+      <File FileName="UINavigationController1/AppDelegate.cs" Line="14" Column="9" />
+      <File FileName="UINavigationController1/Principal.cs" Line="18" Column="13" />
+      <File FileName="UINavigationController1/SegundaViewController.cs" Line="12" Column="7" />
+      <File FileName="UINavigationController1/TercerViewController.cs" Line="12" Column="9" />
+      <File FileName="UINavigationController1/Main.storyboard" />
+      <File FileName="UINavigationController1/CuartaViewController.cs" Line="1" Column="1" />
+      <File FileName="UINavigationController1/Info.plist" />
+      <File FileName="UINavigationController1/Principal.designer.cs" Line="37" Column="1" />
+      <File FileName="UINavigationController1/SegundaViewController.designer.cs" Line="31" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -12,5 +17,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.UINavigationController1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.UINavigationController1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF3FA272-8D59-41F8-B4EF-F7A17608C894" />
+  <MultiItemStartupConfigurations />
 </Properties>

@@ -1,0 +1,10 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/bin/Debug/Location.UITests.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/bin/Debug/Location.UITests.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/bin/Debug/nunit.framework.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/bin/Debug/Xamarin.UITest.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/bin/Debug/nunit.framework.xml
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/bin/Debug/Xamarin.UITest.xml
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/obj/Debug/Location.UITests.csprojResolveAssemblyReference.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/obj/Debug/Location.UITests.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/obj/Debug/Location.UITests.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location.UITests/obj/Debug/Location.UITests.pdb

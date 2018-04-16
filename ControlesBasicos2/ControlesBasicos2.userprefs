@@ -1,7 +1,7 @@
-﻿<Properties StartupItem="ControlesBasicos2/ControlesBasicos2.csproj">
+﻿<Properties StartupConfiguration="{DD0E2D50-C94E-4195-AFDE-13FB19653A0C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ControlesBasicos2/ViewController.cs">
     <Files>
-      <File FileName="ControlesBasicos2/ViewController.cs" Line="40" Column="33" />
+      <File FileName="ControlesBasicos2/ViewController.cs" Line="61" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -9,5 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ControlesBasicos2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.ControlesBasicos2 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.23FCE57D-8FBD-4986-BBEE-FAD1E4AFA23F" />
+  <MultiItemStartupConfigurations />
 </Properties>

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Foundation;
 using UIKit;
+using UITableNegocio;
 
 namespace UITableView4
 {
@@ -48,7 +49,9 @@ namespace UITableView4
 
 		public override void AccessoryButtonTapped(UITableView tableView, NSIndexPath indexPath)
 		{
-			UIAlertController okAlertController = UIAlertController.Create("DetailDisclosureButton Touched", TableItems[indexPath.Row].Nombre, UIAlertControllerStyle.Alert);
+			UIAlertController okAlertController = UIAlertController.Create("DetailDisclosureButton Touched",
+                                                                           TableItems[indexPath.Row].Nombre, 
+                                                                           UIAlertControllerStyle.Alert);
 			okAlertController.AddAction(UIAlertAction.Create("OK", UIAlertActionStyle.Default, null));
 			Controller.PresentViewController(okAlertController, true, null);
 
@@ -63,7 +66,9 @@ namespace UITableView4
 		public override void RowSelected(UITableView tableView, NSIndexPath indexPath)
 		{
 			//SE CREA LAS ALERTAS
-			var okAlertController = UIAlertController.Create("Fila selecionada", TableItems[indexPath.Row].Nombre, UIAlertControllerStyle.Alert);
+			var okAlertController = UIAlertController.Create("Fila selecionada",
+                                                             TableItems[indexPath.Row].Nombre, 
+                                                             UIAlertControllerStyle.Alert);
 
 			//SE CREAN LAS ACCIONES
 			okAlertController.AddAction(UIAlertAction.Create("Aceptar", UIAlertActionStyle.Default, null));
@@ -73,6 +78,11 @@ namespace UITableView4
 
 			tableView.DeselectRow(indexPath, true);
 		}
+
+        public override nfloat GetHeightForRow(UITableView tableView, NSIndexPath indexPath)
+        {
+            return 80;
+        }
 	}
 }
 

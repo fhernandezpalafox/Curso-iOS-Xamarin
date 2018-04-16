@@ -35,10 +35,12 @@
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcons.appiconset</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>New Entry</string>
+	<string>Ubicacion de Felipe</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>New Entry</string>
+	<string>Siempre Ubicado</string>
 	<key>ShowsUserLocation</key>
 	<true/>
+	<key>Location When In Use Usage Description</key>
+	<string>Necesito saber tu ubicacion</string>
 </dict>
 </plist>

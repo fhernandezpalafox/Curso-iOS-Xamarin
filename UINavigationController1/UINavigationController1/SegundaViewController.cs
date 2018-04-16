@@ -6,11 +6,10 @@ namespace UINavigationController1
 {
 	public partial class SegundaViewController : UIViewController
 	{
-
 		public string informacion { get; set;}
 
 		public SegundaViewController() : base("SegundaViewController", null)
-		{
+		{   
 		}
 
 		public override void ViewDidLoad()

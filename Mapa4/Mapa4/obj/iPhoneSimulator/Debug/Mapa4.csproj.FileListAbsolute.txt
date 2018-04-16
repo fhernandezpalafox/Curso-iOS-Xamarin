@@ -1,0 +1,10 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/bin/iPhoneSimulator/Debug/Mapa4.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/bin/iPhoneSimulator/Debug/Mapa4.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/monkey.png
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/obj/iPhoneSimulator/Debug/Mapa4.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/obj/iPhoneSimulator/Debug/Mapa4.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Mapa4/Mapa4/obj/iPhoneSimulator/Debug/Mapa4.pdb

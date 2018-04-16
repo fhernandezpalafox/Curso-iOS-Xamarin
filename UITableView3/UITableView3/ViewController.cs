@@ -16,9 +16,10 @@ namespace UITableView3
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
-			// Perform any additional setup after loading the view, typically from a nib.
+            // Perform any additional setup after loading the view, typically from a nib.
 
-			//SE CREA UN ARREGLO PARA LLENAR LAS TABLAS
+            //SE CREA UN ARREGLO PARA LLENAR LAS TABLAS
+
 			Lista.Add(new Entidad { Nombre = "Bill Gates",Detalle="Microsoft",Imagen="gates.png" });
 			Lista.Add(new Entidad { Nombre = "Mark", Detalle = "Facebook", Imagen = "mark.png" });
 

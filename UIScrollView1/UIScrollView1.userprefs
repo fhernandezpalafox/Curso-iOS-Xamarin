@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="UIScrollView1/UIScrollView1.csproj">
+﻿<Properties StartupConfiguration="{32702D4C-B4B4-494F-A0B1-0180C50582BF}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="UIScrollView1/ViewController.cs">
     <Files>
       <File FileName="UIScrollView1/ViewController.cs" Line="36" Column="4" />
@@ -8,6 +8,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.UIScrollView1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.UIScrollView1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D3F6EAC-1976-49C2-A22E-6CCE984AC4A2" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

@@ -1,6 +1,7 @@
 ﻿using System;
 using Foundation;
 using UIKit;
+using CoreGraphics;
 
 namespace UITableView6
 {
@@ -25,6 +26,7 @@ namespace UITableView6
 				BackgroundColor = UIColor.Clear
 			};
 
+
 			Detalle = new UILabel()
 			{
 				Font = UIFont.FromName("AmericanTypewriter", 12f),
@@ -47,8 +49,8 @@ namespace UITableView6
 		{
 			base.LayoutSubviews();
 
-			Imagen.Frame = new CoreGraphics.CGRect(ContentView.Bounds.Width - 63, 5, 33, 33);
-			Titulo.Frame = new CoreGraphics.CGRect(5, 4, ContentView.Bounds.Width - 63, 25);
+			Imagen.Frame = new CGRect(ContentView.Bounds.Width - 63, 5, 33, 33);
+			Titulo.Frame = new CGRect(5, 4, ContentView.Bounds.Width - 63, 25);
 			Detalle.Frame = new CoreGraphics.CGRect(100,18,100,20);
 		}
 

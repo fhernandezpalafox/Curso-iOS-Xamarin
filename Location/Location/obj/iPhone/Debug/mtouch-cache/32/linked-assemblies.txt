@@ -1,0 +1,5 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/bin/iPhone/Debug/Location.app:/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/mtouch-cache/32/Link/Location.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/bin/iPhone/Debug/Location.app:/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/bin/iPhone/Debug/Location.app:/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/bin/iPhone/Debug/Location.app:/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/bin/iPhone/Debug/Location.app:/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/mtouch-cache/32/Link/Calabash.dll

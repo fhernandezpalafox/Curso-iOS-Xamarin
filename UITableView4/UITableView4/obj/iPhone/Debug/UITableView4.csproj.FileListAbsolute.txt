@@ -1,0 +1,14 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/bin/iPhone/Debug/UITableView4.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/bin/iPhone/Debug/UITableView4.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/bin/iPhone/Debug/UITableNegocio.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/bin/iPhone/Debug/UITableNegocio.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/actool/_PartialAppManifest.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/optimized/Images/gates.png
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/optimized/Images/mark.png
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/device-builds/iphone7.2-11.0.2/optimized/
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/UITableView4.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/UITableView4.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/UITableView4.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableView4/obj/iPhone/Debug/UITableView4.csprojResolveAssemblyReference.cache

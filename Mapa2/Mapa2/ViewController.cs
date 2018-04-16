@@ -24,7 +24,7 @@ namespace Mapa2
 
 			// Perform any additional setup after loading the view, typically from a nib.
 			Mapa.MapType = MKMapType.Standard;
-			Mapa.AddAnnotation(new CustomAnnotation("Xamarin", new CoreLocation.CLLocationCoordinate2D(x,y)));
+			Mapa.AddAnnotation(new CustomAnnotation("Xamarin", new CLLocationCoordinate2D(x,y)));
 			CLLocationCoordinate2D Centrar = new CLLocationCoordinate2D(x, y);
 			MKCoordinateSpan Altura = new MKCoordinateSpan(.002, .002);
 			MKCoordinateRegion Region = new MKCoordinateRegion(Centrar, Altura);

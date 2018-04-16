@@ -1,0 +1,11 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/bin/iPhoneSimulator/Debug/UINavigationController3.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/bin/iPhoneSimulator/Debug/UINavigationController3.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/actool/_PartialAppManifest.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/optimized/alarm.png
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/optimized/alarm@2x.png
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-11.0/optimized/
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/UINavigationController3.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/UINavigationController3.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UINavigationController3/UINavigationController3/obj/iPhoneSimulator/Debug/UINavigationController3.pdb

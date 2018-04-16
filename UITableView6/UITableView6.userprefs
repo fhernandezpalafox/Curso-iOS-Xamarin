@@ -1,9 +1,8 @@
-﻿<Properties StartupItem="UITableView6/UITableView6.csproj">
+﻿<Properties StartupConfiguration="{1590079F-593A-4BC4-BAA3-4A16812255BB}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="UITableView6/TableSource.cs">
     <Files>
       <File FileName="UITableView6/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="UITableView6/TableSource.cs" Line="60" Column="6" />
-      <File FileName="UITableView6/CustomCell.cs" Line="52" Column="59" />
+      <File FileName="UITableView6/TableSource.cs" Line="48" Column="62" />
       <File FileName="UITableView6/ViewController.cs" Line="24" Column="29" />
       <File FileName="UITableView6/Entidad.cs" Line="1" Column="1" />
     </Files>
@@ -12,6 +11,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.UITableView6 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8E76843A-2E08-4C92-959F-29990F359462" />
+  <MonoDevelop.Ide.ItemProperties.UITableView6 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF3FA272-8D59-41F8-B4EF-F7A17608C894" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

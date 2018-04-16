@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{35E399FD-1ED6-4CEC-B2E6-1FEAFB3C8935}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableSource.cs">
+    <Files>
+      <File FileName="CustomCell.cs" Line="15" Column="3" />
+      <File FileName="ViewController.cs" Line="26" Column="28" />
+      <File FileName="CustomCell.xib" />
+      <File FileName="TableSource.cs" Line="10" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UITableView5 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3CD9D848-3D3E-48ED-99F6-A9EC98A481A9" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

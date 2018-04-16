@@ -1,6 +1,6 @@
 // WARNING
 //
-// This file has been generated automatically by Xamarin Studio to store outlets and
+// This file has been generated automatically by Visual Studio to store outlets and
 // actions made in the UI designer. If it is removed, they will be lost.
 // Manual changes to this file may not be handled correctly.
 //
@@ -29,9 +29,9 @@ namespace ControlesBasicos2
 		
 		void ReleaseDesignerOutlets ()
 		{
-			if (txtCaptura != null) {
-				txtCaptura.Dispose ();
-				txtCaptura = null;
+			if (btnPresioname != null) {
+				btnPresioname.Dispose ();
+				btnPresioname = null;
 			}
 
 			if (lblCaptura != null) {
@@ -39,9 +39,9 @@ namespace ControlesBasicos2
 				lblCaptura = null;
 			}
 
-			if (btnPresioname != null) {
-				btnPresioname.Dispose ();
-				btnPresioname = null;
+			if (SwitchHabilitado != null) {
+				SwitchHabilitado.Dispose ();
+				SwitchHabilitado = null;
 			}
 
 			if (textViewCaptura != null) {
@@ -49,9 +49,9 @@ namespace ControlesBasicos2
 				textViewCaptura = null;
 			}
 
-			if (SwitchHabilitado != null) {
-				SwitchHabilitado.Dispose ();
-				SwitchHabilitado = null;
+			if (txtCaptura != null) {
+				txtCaptura.Dispose ();
+				txtCaptura = null;
 			}
 		}
 	}

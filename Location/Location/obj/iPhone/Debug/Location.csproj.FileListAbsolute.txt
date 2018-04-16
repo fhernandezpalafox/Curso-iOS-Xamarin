@@ -1,0 +1,13 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/bin/iPhone/Debug/Location.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/bin/iPhone/Debug/Location.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/bin/iPhone/Debug/Calabash.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/Location.csprojResolveAssemblyReference.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/Location.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/Location.exe
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/Location.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/optimized/map.png
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/optimized/map@2x.png
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/Location/Location/obj/iPhone/Debug/optimized/

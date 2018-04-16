@@ -1,0 +1,5 @@
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableNegocio/bin/Debug/UITableNegocio.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableNegocio/bin/Debug/UITableNegocio.pdb
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableNegocio/obj/Debug/UITableNegocio.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableNegocio/obj/Debug/UITableNegocio.dll
+/Users/felipehernandez/Desktop/Curso-de-iOS-master/UITableView4/UITableNegocio/obj/Debug/UITableNegocio.pdb

@@ -6,12 +6,11 @@ namespace UITableView3
 {
 	public class TableSource : UITableViewSource
 	{
+        readonly List<Entidad> TableItems;
+        string CellIdentifier = "Celda";
+        readonly UIViewController Controller;
 
-		List<Entidad> TableItems;
-		string CellIdentifier = "Celda";
-		UIViewController Controller;
-
-		public TableSource() { }
+        public TableSource() { }
 
 		public TableSource(List<Entidad> items, UIViewController controller)
 		{
@@ -46,7 +45,10 @@ namespace UITableView3
 		public override void RowSelected(UITableView tableView, NSIndexPath indexPath)
 		{
 			//SE CREA LAS ALERTAS
-			var okAlertController = UIAlertController.Create("Fila selecionada", TableItems[indexPath.Row].Nombre, UIAlertControllerStyle.Alert);
+			var okAlertController = 
+                UIAlertController.Create("Fila selecionada", 
+                                          TableItems[indexPath.Row].Nombre, 
+                                         UIAlertControllerStyle.Alert);
 
 			//SE CREAN LAS ACCIONES
 			okAlertController.AddAction(UIAlertAction.Create("Aceptar", UIAlertActionStyle.Default, null));
@@ -56,6 +58,11 @@ namespace UITableView3
 
 			tableView.DeselectRow(indexPath, true);
 		}
+
+        public override nfloat GetHeightForRow(UITableView tableView, NSIndexPath indexPath)
+        {
+            return 80;
+        }
 	}
 }
 

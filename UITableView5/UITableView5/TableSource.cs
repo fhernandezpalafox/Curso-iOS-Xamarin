@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Foundation;
 using UIKit;
+using NegocioLibrary;
 
 namespace UITableView5
 {
@@ -40,7 +41,9 @@ namespace UITableView5
 		public override void RowSelected(UITableView tableView, NSIndexPath indexPath)
 		{
 			//SE CREA LAS ALERTAS
-			var okAlertController = UIAlertController.Create("Fila selecionada", TableItems[indexPath.Row].Titulo, UIAlertControllerStyle.Alert);
+			var okAlertController = UIAlertController.Create("Fila selecionada", 
+                                                             TableItems[indexPath.Row].Titulo,
+                                                             UIAlertControllerStyle.Alert);
 
 			//SE CREAN LAS ACCIONES
 			okAlertController.AddAction(UIAlertAction.Create("Aceptar", UIAlertActionStyle.Default, null));

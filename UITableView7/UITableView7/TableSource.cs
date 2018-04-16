@@ -45,6 +45,7 @@ namespace UITableView7
 			return TableItems.Count;
 		}
 
+        /*
 		public override void RowSelected(UITableView tableView, NSIndexPath indexPath)
 		{
 			//SE CREA LAS ALERTAS
@@ -58,7 +59,7 @@ namespace UITableView7
 
 			tableView.DeselectRow(indexPath, true);
 		}
-
+        */
 
 		public override void CommitEditingStyle(UITableView tableView, UITableViewCellEditingStyle editingStyle, NSIndexPath indexPath)
 		{

@@ -29,7 +29,7 @@ namespace UITableView6
 				cell = new CustomCell((NSString)CellIdentifier);
 				cell.UpdateCell(TableItems[indexPath.Row].Titulo,
 								TableItems[indexPath.Row].Detalle,
-								UIImage.FromBundle("images/" + TableItems[indexPath.Row].Imagen));
+								UIImage.FromBundle("Images/" + TableItems[indexPath.Row].Imagen));
 			}
 
 			return cell;
@@ -43,7 +43,9 @@ namespace UITableView6
 		public override void RowSelected(UITableView tableView, NSIndexPath indexPath)
 		{
 			//SE CREA LAS ALERTAS
-			var okAlertController = UIAlertController.Create("Fila selecionada", TableItems[indexPath.Row].Titulo, UIAlertControllerStyle.Alert);
+			var okAlertController = UIAlertController.Create("Fila selecionada",
+                                                             TableItems[indexPath.Row].Titulo,
+                                                             UIAlertControllerStyle.Alert);
 
 			//SE CREAN LAS ACCIONES
 			okAlertController.AddAction(UIAlertAction.Create("Aceptar", UIAlertActionStyle.Default, null));
