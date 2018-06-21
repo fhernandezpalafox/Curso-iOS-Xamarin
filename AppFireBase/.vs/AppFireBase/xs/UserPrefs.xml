@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2FBBD9EE-488A-4F44-8466-BC1153209893}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppFireBase/FloatLabeledTextField.cs">
+    <Files>
+      <File FileName="AppFireBase/MainViewController.cs" Line="90" Column="73" />
+      <File FileName="AppFireBase/MainViewController.designer.cs" Line="19" Column="42" />
+      <File FileName="AppFireBase/PrincipalViewController.cs" Line="38" Column="13" />
+      <File FileName="AppFireBase/TableSource.cs" Line="13" Column="9" />
+      <File FileName="AppFireBase/ProductosViewController.cs" Line="48" Column="59" />
+      <File FileName="AppFireBase/ChatViewController.cs" Line="57" Column="4" />
+      <File FileName="AppFireBase/FloatLabeledTextField.cs" Line="5" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppFireBase" expanded="True">
+            <Node name="AppFireBase" expanded="True">
+              <Node name="FloatLabeledTextField.cs" selected="True" />
+              <Node name="MainViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AppFireBase PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DD265FBC-39A2-4B33-87FE-0B1B94C52F45" automaticSigning="False" />
+</Properties>

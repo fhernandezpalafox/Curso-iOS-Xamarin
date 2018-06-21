@@ -1,0 +1,91 @@
+Function=xamarin_timezone_get_data
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Xamarin.iOS.dll
+Field=FirebaseAuthVersionNumber
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRAuthErrorDomain
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRAuthErrorNameKey
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoEmailKey
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRAuthStateDidChangeNotification
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRAuthUpdatedCredentialKey
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FirebaseAuthVersionString
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuth
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeInfo
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeSettings
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAdditionalUserInfo
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthCredential
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthDataResult
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIREmailPasswordAuthProviderID
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIREmailAuthProviderID
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIREmailAuthProvider
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRFacebookAuthProviderID
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRFacebookAuthProvider
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRGitHubAuthProviderID
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGitHubAuthProvider
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRGoogleAuthProviderID
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGoogleAuthProvider
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROAuthProvider
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneAuthCredential
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRPhoneAuthProviderID
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneAuthProvider
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+Field=FIRTwitterAuthProviderID
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRTwitterAuthProvider
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUser
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUserMetadata
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUserProfileChangeRequest
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAnalyticsConfiguration
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRApp
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRConfiguration
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROptions
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Core.dll
+Field=kFIRInstanceIDScopeFirebaseMessaging
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.InstanceID.dll
+Field=kFIRInstanceIDTokenRefreshNotification
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.InstanceID.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRInstanceID
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.InstanceID.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAnalytics
+	/Users/felipehernandez/Projects/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone7.2-11.2.6/mtouch-cache/Link/Firebase.Analytics.dll
+Function=mono_pmip
