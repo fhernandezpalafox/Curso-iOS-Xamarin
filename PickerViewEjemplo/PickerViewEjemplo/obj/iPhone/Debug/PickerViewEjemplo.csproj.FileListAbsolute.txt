@@ -1,0 +1,9 @@
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/bin/iPhone/Debug/PickerViewEjemplo.exe
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/bin/iPhone/Debug/PickerViewEjemplo.pdb
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/obj/iPhone/Debug/device-builds/iphone7.2-11.0.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/obj/iPhone/Debug/device-builds/iphone7.2-11.0.3/actool/_PartialAppManifest.items
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/obj/iPhone/Debug/device-builds/iphone7.2-11.0.3/actool/_BundleResourceWithLogicalName.items
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/obj/iPhone/Debug/device-builds/iphone7.2-11.0.3/optimized/
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/obj/iPhone/Debug/PickerViewEjemplo.csproj.CoreCompileInputs.cache
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/obj/iPhone/Debug/PickerViewEjemplo.exe
+/Users/felipehernandez/Projects/PickerViewEjemplo/PickerViewEjemplo/obj/iPhone/Debug/PickerViewEjemplo.pdb
