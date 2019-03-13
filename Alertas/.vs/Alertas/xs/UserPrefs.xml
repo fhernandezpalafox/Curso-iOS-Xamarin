@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{54E86CF3-C428-406A-A18B-777546499D8A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Alertas PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1FAA90F6-636C-4977-8C92-8480F344407A" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alertas/ViewController.cs">
+    <Files>
+      <File FileName="Alertas/ViewController.cs" Line="100" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alertas" expanded="True">
+            <Node name="Alertas" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
