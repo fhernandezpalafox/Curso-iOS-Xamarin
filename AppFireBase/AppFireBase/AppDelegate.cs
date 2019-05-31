@@ -21,7 +21,7 @@ namespace AppFireBase
         {
             // Override point for customization after application launch.
             // If not required for your application you can safely delete this method
-            App.Configure();
+            //App.Configure();
             UIApplication.SharedApplication.StatusBarStyle = UIStatusBarStyle.LightContent;
             return true;
         }

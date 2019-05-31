@@ -1,0 +1,10 @@
+/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/bin/iPhone/Debug/AppFireBase.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.0/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.0/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.0/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.0/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.0/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.8.0.0/lib/mono/Xamarin.iOS/System.Core.dll
+/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/packages/Xamarin.Firebase.iOS.Auth.5.0.4.1/lib/Xamarin.iOS10/Firebase.Auth.dll
+/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/packages/Xamarin.Firebase.iOS.Core.5.2.0/lib/Xamarin.iOS10/Firebase.Core.dll
+/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/packages/Xamarin.Firebase.iOS.Database.5.0.3/lib/Xamarin.iOS10/Firebase.Database.dll

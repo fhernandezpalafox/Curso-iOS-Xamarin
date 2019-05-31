@@ -1,0 +1,117 @@
+Function=xamarin_timezone_get_data
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Field=FirebaseAuthVersionNum
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorDomain
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorNameKey
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthErrorUserInfoEmailKey
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthStateDidChangeNotification
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRAuthUpdatedCredentialKey
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FirebaseAuthVersionStr
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuth
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeInfo
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRActionCodeSettings
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAdditionalUserInfo
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthCredential
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthDataResult
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthSettings
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAuthTokenResult
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIREmailPasswordAuthProviderID
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIREmailAuthProviderID
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIREmailPasswordAuthSignInMethod
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIREmailAuthProvider
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRFacebookAuthProviderID
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRFacebookAuthSignInMethod
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRFacebookAuthProvider
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGitHubAuthProviderID
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGitHubAuthSignInMethod
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGitHubAuthProvider
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGoogleAuthProviderID
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRGoogleAuthSignInMethod
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRGoogleAuthProvider
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROAuthProvider
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneAuthCredential
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRPhoneAuthProviderID
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRPhoneAuthSignInMethod
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRPhoneAuthProvider
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRTwitterAuthProviderID
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+Field=FIRTwitterAuthSignInMethod
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRTwitterAuthProvider
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUser
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUserMetadata
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRUserProfileChangeRequest
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Auth.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRApp
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRAnalyticsConfiguration
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRConfiguration
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIROptions
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Core.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRDatabaseReference
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Database.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRDataSnapshot
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Database.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRMutableData
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Database.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRDatabase
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Database.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRDatabaseQuery
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Database.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRServerValue
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Database.dll
+ObjectiveCClass=OBJC_CLASS_$_FIRTransactionResult
+	/Users/felipehernandez/Documents/GitHub/Curso-de-iOS/AppFireBase/AppFireBase/obj/iPhone/Debug/device-builds/iphone10.6-12.2/mtouch-cache/1-Link/Firebase.Database.dll
+Function=mono_pmip
